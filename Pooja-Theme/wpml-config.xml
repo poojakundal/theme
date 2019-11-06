@@ -1,0 +1,24 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_uncode-lite">
+    <key name="uncode_lite_main_title" />
+    <key name="uncode_lite_main_description" />
+    <key name="uncode_lite_first_button_title" />
+    <key name="uncode_lite_second_button_title" />
+    <key name="uncode_lite_features_section_main_title" />
+    <key name="uncode_lite_features_description" />
+    <key name="uncode_lite_blog_section_main_title" />
+    <key name="uncode_lite_blog_description" />
+    <key name="uncode_lite_portfolio_section_main_title" />
+    <key name="uncode_lite_portfolio_description" />
+    <key name="uncode_lite_call_to_action_section_main_title" />
+    <key name="uncode_lite_call_to_action_description" />
+    <key name="uncode_lite_call_to_action_button_title" />
+    <key name="uncode_lite_contact_section_main_title" />
+    <key name="uncode_lite_contact_description" />
+    <key name="uncode_lite_phone_number" />
+    <key name="uncode_lite_quick_map_address" />
+    <key name="uncode_lite_footer_copyright" />    
+</key>
+</admin-texts>
+</wpml-config>

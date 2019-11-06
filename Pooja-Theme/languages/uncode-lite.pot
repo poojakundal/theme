@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 07:09+0000\n"
+"PO-Revision-Date: 2017-04-11 07:09+0000\n"
+"Last-Translator: admin <ajay@access-keys.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+ #: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+ #: 404.php:22
+msgid ""
+"It looks like nothing was found at this location.Click on the below link to "
+"redirect home page"
+msgstr ""
+ #: 404.php:27
+msgid "Back To Home"
+msgstr ""
+ #: archive.php:36 index.php:41 search.php:37
+msgid "Prev"
+msgstr ""
+ #: archive.php:37 index.php:42 search.php:38
+msgid "Next"
+msgstr ""
+ #: comments.php:30
+msgid "Comments"
+msgstr ""
+ #: comments.php:41 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+ #: comments.php:44 comments.php:56
+msgid "Older Comments"
+msgstr ""
+ #: comments.php:45 comments.php:57
+msgid "Newer Comments"
+msgstr ""
+ #: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+ #: comments.php:77
+msgid "Name *"
+msgstr ""
+ #: comments.php:81
+msgid "Email Address *"
+msgstr ""
+ #: comments.php:88
+msgid "Comment *"
+msgstr ""
+ #: comments.php:91
+msgid "ADD COMMENT"
+msgstr ""
+ #: functions.php:51
+msgid "Primary"
+msgstr ""
+ #: functions.php:106
+msgid "Left Sidebar Widget Area"
+msgstr ""
+ #: functions.php:108 functions.php:118
+msgid "Add widgets here."
+msgstr ""
+ #: functions.php:116
+msgid "Right Sidebar Widget Area"
+msgstr ""
+ #. Name of the template
+msgid "Front Page"
+msgstr ""
+ #: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+ #: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+ #: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+ #: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+ #: template-parts/content-page.php:19 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr ""
+ #. %s: Name of current post
+#. %s: Name of current post
+#: template-parts/content-page.php:31 uncode/core/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+ #: template-parts/content-search.php:38 template-parts/content.php:44
+#: uncode/hooks/hooks.php:104 uncode/hooks/hooks.php:279
+#: uncode/hooks/hooks.php:299 uncode/hooks/hooks.php:318
+#: uncode/hooks/hooks.php:337 uncode/hooks/hooks.php:413
+#: uncode/customizer/header-section/header-options.php:35
+msgid "Read More"
+msgstr ""
+ #: template-parts/content-single.php:31 template-parts/content.php:38
+msgid "Posted By :"
+msgstr ""
+ #. %s: Name of current post.
+#: template-parts/content-single.php:41
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+ #: uncode/functions.php:44
+msgid "Breadcrumbs Image"
+msgstr ""
+ #: uncode/functions.php:52
+msgid "Display Layout Options"
+msgstr ""
+ #: uncode/functions.php:65
+msgid "Left Sidebar"
+msgstr ""
+ #: uncode/functions.php:70
+msgid "Right Sidebar(Default)"
+msgstr ""
+ #: uncode/functions.php:75
+msgid "Full width"
+msgstr ""
+ #: uncode/functions.php:80
+msgid "Both Sidebar"
+msgstr ""
+ #: uncode/functions.php:159
+msgid "Remove"
+msgstr ""
+ #: uncode/functions.php:166
+msgid "Select Image"
+msgstr ""
+ #: uncode/functions.php:212
+msgid "Home"
+msgstr ""
+ #: uncode/functions.php:227
+msgid "Archive by category"
+msgstr ""
+ #: uncode/functions.php:229
+msgid "Search results for"
+msgstr ""
+ #: uncode/functions.php:287
+msgid "Posts tagged"
+msgstr ""
+ #: uncode/functions.php:291
+msgid "Articles posted by "
+msgstr ""
+ #: uncode/functions.php:293
+msgid "Error 404"
+msgstr ""
+ #: uncode/functions.php:299
+msgid "Page"
+msgstr ""
+ #: uncode/functions.php:320
+msgid "Your comment is awaiting moderation."
+msgstr ""
+ #: uncode/functions.php:325
+#, php-format
+msgid "<h4 class=\"media-heading\">%s</h4>"
+msgstr ""
+ #: uncode/functions.php:327
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+ #: uncode/functions.php:427
+msgid "Install Required Plugins"
+msgstr ""
+ #: uncode/functions.php:428
+msgid "Install Plugins"
+msgstr ""
+ #: uncode/functions.php:429
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+ #: uncode/functions.php:430
+msgid "Something went wrong with the plugin API."
+msgstr ""
+ #: uncode/functions.php:431
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:434
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:437
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:440
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:443
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:446
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:449
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:452
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:455
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:458
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:461
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:464
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+ #: uncode/functions.php:467
+msgid "Return to Required Plugins Installer"
+msgstr ""
+ #: uncode/functions.php:468
+msgid "Plugin activated successfully."
+msgstr ""
+ #: uncode/functions.php:469
+msgid "The following plugin was activated successfully:"
+msgstr ""
+ #: uncode/functions.php:470
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+ #: uncode/functions.php:471
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+ #: uncode/functions.php:472
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+ #: uncode/functions.php:473
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+ #: uncode/core/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+ #: uncode/core/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+ #. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: uncode/core/template-tags.php:50 uncode/core/template-tags.php:56
+msgid ", "
+msgstr ""
+ #: uncode/core/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+ #: uncode/core/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+ #. %s: post title
+#: uncode/core/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+ #: uncode/customizer/customizer.php:32
+msgid "General Settings"
+msgstr ""
+ #: uncode/customizer/customizer.php:40
+msgid "Themes Colors"
+msgstr ""
+ #: uncode/customizer/customizer.php:52
+msgid "Breadcrumb Settings"
+msgstr ""
+ #: uncode/customizer/customizer.php:65
+msgid "Enable/Disable Breadcrumb Section"
+msgstr ""
+ #: uncode/customizer/customizer.php:68 uncode/customizer/customizer.php:97
+#: uncode/customizer/uncode-sanitize.php:12
+#: uncode/customizer/homepage-section/homepage-options.php:19
+#: uncode/customizer/homepage-section/homepage-options.php:69
+#: uncode/customizer/homepage-section/homepage-options.php:126
+#: uncode/customizer/homepage-section/homepage-options.php:224
+#: uncode/customizer/homepage-section/homepage-options.php:287
+#: uncode/customizer/homepage-section/homepage-options.php:352
+#: uncode/customizer/homepage-section/homepage-options.php:428
+#: uncode/customizer/homepage-section/homepage-options.php:521
+msgid "Enable"
+msgstr ""
+ #: uncode/customizer/customizer.php:69 uncode/customizer/customizer.php:98
+#: uncode/customizer/uncode-sanitize.php:13
+#: uncode/customizer/homepage-section/homepage-options.php:20
+#: uncode/customizer/homepage-section/homepage-options.php:70
+#: uncode/customizer/homepage-section/homepage-options.php:127
+#: uncode/customizer/homepage-section/homepage-options.php:225
+#: uncode/customizer/homepage-section/homepage-options.php:288
+#: uncode/customizer/homepage-section/homepage-options.php:353
+#: uncode/customizer/homepage-section/homepage-options.php:429
+#: uncode/customizer/homepage-section/homepage-options.php:522
+msgid "Disable"
+msgstr ""
+ #: uncode/customizer/customizer.php:81
+msgid "Upload Breadcrumb Background Image"
+msgstr ""
+ #: uncode/customizer/customizer.php:94
+msgid "Enable/Disable Breadcrumb Menu"
+msgstr ""
+ #: uncode/customizer/uncode-custom-controls.php:74
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+ #: uncode/hooks/header.php:13
+msgid "Skip to navigation"
+msgstr ""
+ #: uncode/hooks/header.php:14
+msgid "Skip to content"
+msgstr ""
+ #: uncode/hooks/hooks.php:15
+#, php-format
+msgid "%1$s By %2$s"
+msgstr ""
+ #: uncode/hooks/hooks.php:138
+msgid "01."
+msgstr ""
+ #: uncode/hooks/hooks.php:152
+msgid "02."
+msgstr ""
+ #: uncode/hooks/hooks.php:166
+msgid "03."
+msgstr ""
+ #: uncode/hooks/hooks.php:215
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+ #: uncode/hooks/hooks.php:219
+msgid "Oops! page can not be found."
+msgstr ""
+ #: uncode/hooks/hooks.php:223
+msgid "Blogs"
+msgstr ""
+ #: uncode/hooks/hooks.php:564
+msgid "Phone"
+msgstr ""
+ #: uncode/hooks/hooks.php:570
+#: uncode/customizer/homepage-section/homepage-options.php:485
+msgid "Address"
+msgstr ""
+ #: uncode/hooks/hooks.php:576
+msgid "Email"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:8
+#: uncode/customizer/footer-section/footer-settings.php:7
+msgid "Footer Settings"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:21
+msgid "Copyright"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:31
+msgid "Social Icon Options"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:43
+msgid "Facebook url"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:58
+msgid "Twitter url"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:72
+msgid "Google Plus url"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:86
+msgid "Youtube url"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-options.php:101
+msgid "Linkedin url"
+msgstr ""
+ #: uncode/customizer/footer-section/footer-settings.php:8
+msgid "Customize your awesome site footer settings"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:2
+msgid "HomePage Header Banner"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:8
+msgid "We Are Responsive"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:13
+msgid "Banner Title"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:22
+msgid ""
+"Better security happens when we work together, Get tips on further steps you "
+"can take to protect yourself online. better security happens when we work "
+"together happens"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:27
+msgid "Banner Description"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:40
+msgid "First button Text"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:52
+msgid "First button link"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:60
+msgid "Purchase Now"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:65
+msgid "Second button Text"
+msgstr ""
+ #: uncode/customizer/header-section/header-options.php:77
+msgid "Second button link"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:4
+msgid "About Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:16
+#: uncode/customizer/homepage-section/homepage-options.php:66
+#: uncode/customizer/homepage-section/homepage-options.php:123
+#: uncode/customizer/homepage-section/homepage-options.php:221
+#: uncode/customizer/homepage-section/homepage-options.php:284
+#: uncode/customizer/homepage-section/homepage-options.php:349
+#: uncode/customizer/homepage-section/homepage-options.php:425
+#: uncode/customizer/homepage-section/homepage-options.php:518
+msgid "Enable/Disable Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:33
+msgid "Upload Featured Image"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:45
+msgid "Select Page"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:54
+msgid "Services Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:81
+msgid "Select Page One"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:92
+msgid "Select Page Two"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:103
+msgid "Select Page Three"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:111
+msgid "Our Features Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:134
+msgid "Our <span>Features</span>"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:139
+#: uncode/customizer/homepage-section/homepage-options.php:237
+#: uncode/customizer/homepage-section/homepage-options.php:300
+#: uncode/customizer/homepage-section/homepage-options.php:365
+#: uncode/customizer/homepage-section/homepage-options.php:441
+msgid "Section Title"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:148
+#: uncode/customizer/homepage-section/homepage-options.php:246
+#: uncode/customizer/homepage-section/homepage-options.php:309
+#: uncode/customizer/homepage-section/homepage-options.php:450
+msgid ""
+"Better security happens when we work together, Get tips on further steps you "
+"can take to protect yourself online."
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:153
+#: uncode/customizer/homepage-section/homepage-options.php:251
+#: uncode/customizer/homepage-section/homepage-options.php:314
+#: uncode/customizer/homepage-section/homepage-options.php:380
+#: uncode/customizer/homepage-section/homepage-options.php:455
+msgid "Section Subtitle"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:209
+msgid "Our Blog Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:232
+msgid "Recent <span>Blog</span>"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:264
+msgid "Select Blog Section Category"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:265
+msgid "Select cateogry for Blog Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:272
+msgid "Portfolio Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:295
+msgid "Recent <span>Portfolio</span>"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:328
+msgid "Select Portfolio Section Category"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:329
+msgid "Select cateogry for Portfolio Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:337
+msgid "Call To Action Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:360
+msgid "Uncode WordPress Theme"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:374
+msgid "Build promptly, Launch Fast"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:388
+msgid "Get Start Now"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:393
+msgid "Button Text"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:405
+msgid "Button Link"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:413
+msgid "Our Contact Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:436
+msgid "Our <span>Contact</span>"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:472
+msgid "Phone Number"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:498
+msgid "Email Address"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:506
+msgid "Google Map Section"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-options.php:533
+msgid "Select Page For Google Maps"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-settings.php:7
+msgid "HomePage Settings"
+msgstr ""
+ #: uncode/customizer/homepage-section/homepage-settings.php:8
+msgid "Customize your awesome site homepage settings"
+msgstr ""
+ #. Name of the theme
+msgid "Uncode Lite"
+msgstr ""
+ #. Description of the theme
+msgid ""
+"Uncode Lite is simple, minimal and clean WordPress Theme with elegant design."
+" Though the Theme is simple, it does not lack any features. The theme is "
+"loaded with all features required to built a complete website with uncode. "
+"The clean typography and spacious design makes it look appealing to your "
+"visitor. Additionally the Theme is very easy to set up via customizer with "
+"live preview and does not requires any sort of coding skills at all. The "
+"theme can be used by business corporate, bloggers, photographers, "
+"freelancers and creative agencies. So what are you waiting for! Download the "
+"theme and start building proffesional website with ease."
+msgstr ""
+ #. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/uncode"
+msgstr ""
+ #. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+ #. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""
